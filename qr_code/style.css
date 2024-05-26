@@ -11,7 +11,7 @@ width: 320px;
 height: 497px;
 background-colour: white;
 border-radius: 1rem 1rem 1rem 1rem; 
-box-shadow: 3px 3px 7px grey;
+box-shadow: 1px 5px 25px #CCCBCB;
 /* To center the div using flex*/
 display: flex;
 justify-content: center;
