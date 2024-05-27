@@ -31,13 +31,13 @@ transform: translate(-50%, -12%);
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .outfit {
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 300;
   font-style: normal;
   font-size: 15px;
   color: grey;
