@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [View Code Solution](https://github.com/SophShan/FrontendMentor/edit/main/qr_code)
-- Live Site URL: [View Live Site of Solution]([https://your-live-site-url.com](https://sophshan.github.io/FrontendMentor/qr_code/))
+- Live Site URL: [View Live Site of Solution](https://sophshan.github.io/FrontendMentor/qr_code/)
 
 ## My process
 - I worked my way from the background elements to the foreground
