@@ -5,7 +5,7 @@ body{
 .whitecontainer{
 width: 320px;
 height: 497px;
-background-colour: #fff;
+background-color: #fff;
 border-radius: 1rem 1rem 1rem 1rem; 
 box-shadow: 1px 5px 25px #CCCBCB;
 /* To center the div using flex*/
@@ -49,5 +49,5 @@ text-align: center;
 position: fixed;
 top: 62%;
 left: 50%;
-transform: translate(-50%, 12%);
+transform: translate(-50%, 13%);
 }
