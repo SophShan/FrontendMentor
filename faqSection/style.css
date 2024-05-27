@@ -2,7 +2,7 @@ body{
   background-color: #FAEDFF;
 }
 
-.gridContainer {
-diplay: grid;
-grid-template-columns: 50% 50%;
+.header {
+position: sticky;
+top: 0px;
 }
