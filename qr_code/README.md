@@ -11,9 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,6 +25,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [View Live Site of Solution]([https://your-live-site-url.com](https://sophshan.github.io/FrontendMentor/qr_code/))
 
 ## My process
+- I worked my way from the background elements to the foreground
+- First, I changed the background, then created and centered the white container
+- Next, I added and positioned the qr code image
+- Then, I added the two texts, changed their fonts and sizes, as well as positioned them correctly
+- Finally, I made final adjustments to make my solution better resemble the given design
 
 ### Built with
 
