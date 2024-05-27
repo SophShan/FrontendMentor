@@ -3,6 +3,9 @@ body{
 }
 
 .header {
-position: sticky;
-top: 0px;
+  position: sticky;
+  top: 0px;
+  /* center div */
+  display: flex;
+  justify-content: center;
 }
