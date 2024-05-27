@@ -43,8 +43,11 @@ transform: translate(-50%, -12%);
 }
 
 .linedText {
+width: 220px;
+text-align: center;
+/* move text on the div*/
 position: fixed;
-top: 10%;
+top: 62%;
 left: 50%;
 transform: translate(-50%, 12%);
 }
