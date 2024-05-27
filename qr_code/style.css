@@ -20,11 +20,11 @@ transform: translate(-50%, -50%);
 }
 
 .image{
-border-radius: 1rem 1rem 1rem 1rem; 
-width: 80%;
-height: 40%;
+border-radius: 0.7rem 0.7rem 0.7rem 0.7rem; 
+width: 288px;
+height: 288px;
 position: fixed;
 top: 10%;
 left: 50%;
-transform: translate(-50%, -50%);
+transform: translate(-50%, -12%);
 }
