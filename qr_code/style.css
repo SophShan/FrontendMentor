@@ -46,7 +46,7 @@ transform: translate(-50%, -12%);
 }
 
 .linedText {
-width: 250px;
+width: 280px;
 text-align: center;
 /* move text on the div*/
 position: fixed;
