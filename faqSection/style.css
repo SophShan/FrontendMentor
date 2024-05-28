@@ -9,3 +9,10 @@ body{
   display: flex;
   justify-content: center;
 }
+
+.whitecontainer {
+  background-color: #ffffff;
+  width: 600px;
+  height: 400px;
+  
+}
