@@ -4,10 +4,11 @@ body{
 
 .header {
   position: sticky;
-  top: 0px;
+  top: -10px;
   /* center div */
   display: flex;
   justify-content: center;
+  z-index: 1;
 }
 
 .whitecontainer {
@@ -16,6 +17,6 @@ body{
   height: 400px;
   display: flex;
   justify-content: center;
-  top: 40px;
   border-radius: 1rem 1rem 1rem 1rem;
+  z-index: 2;
 }
