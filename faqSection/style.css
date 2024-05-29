@@ -3,7 +3,6 @@ body{
 }
 
 .header {
-  position: sticky;
   top: -10px;
   /* center div */
   display: flex;
