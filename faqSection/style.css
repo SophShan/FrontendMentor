@@ -13,10 +13,10 @@ body{
 
 .whitecontainer {
   background-color: #ffffff;
-  width: 600px;
-  height: 400px;
+  width: 33%;
+  height: 700px;
   display: flex;
   justify-content: center;
-  border-radius: 1rem 1rem 1rem 1rem;
+  border-radius: 2rem 2rem 2rem 2rem;
   z-index: 2;
 }
