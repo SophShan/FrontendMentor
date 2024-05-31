@@ -19,3 +19,7 @@ body{
   z-index: 2;
   transform: translate(60%, -30%);
 }
+
+question:hover {
+  color: purple;
+}
