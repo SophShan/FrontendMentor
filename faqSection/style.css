@@ -20,6 +20,6 @@ body{
   transform: translate(60%, -30%);
 }
 
-question:hover {
+.question:hover {
   color: purple;
 }
