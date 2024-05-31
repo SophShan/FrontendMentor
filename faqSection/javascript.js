@@ -9,10 +9,10 @@ function expand (id){
 }
 
 function changeCol (id){
-   if (document.getElementById (id).style."background-color" == 'black') {
-    document.getElementById (id).style."background-color" = 'purple';
+   if (document.getElementById (id).style.color == 'black') {
+    document.getElementById (id).style.color = 'purple';
   }
   else {
-    document.getElementById (id).style."background-color" = 'black';
+    document.getElementById (id).style.color = 'black';
   }
 }
