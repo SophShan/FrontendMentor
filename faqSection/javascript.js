@@ -10,7 +10,7 @@ function expand (id){
 
 function changeCol (id){
    if (document.getElementById (id).style.color == 'black') {
-    document.getElementById (id).style.color = 'purple';
+    document.getElementById (id).style.color = 'pink';
   }
   else {
     document.getElementById (id).style.color = 'black';
