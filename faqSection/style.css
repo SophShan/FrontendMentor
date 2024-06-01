@@ -26,6 +26,11 @@ body{
 
 .parent {
 display: grid;
+grid-template-columns: 2fr 2fr;
+}
+
+.heading {
+padding: 30px;
 }
 
 .child {
