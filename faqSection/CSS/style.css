@@ -43,3 +43,8 @@ display: flex;
 justify-content: center;
 padding: 10px;
 }
+
+@WorkSans-Bold {
+    font-family: "WorkSans-Bold";
+    src: url("WorkSans-Bold.ttf") format('truetype');
+}
